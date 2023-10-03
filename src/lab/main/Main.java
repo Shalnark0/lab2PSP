@@ -15,6 +15,5 @@ public static void main(String[] args) {
     e1[0].print();
     System.out.println(Employee.totalSalary/Employee.numberOfEmployees);
     System.out.println(Employee.amountWithChildren);
-    // Николя лох
     } }
 
